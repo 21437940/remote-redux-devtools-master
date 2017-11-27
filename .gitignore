@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 
 *.js
+=======
+node_modules
+*.log
+.DS_Store
+lib
+dist
+coverage
+.idea
+>>>>>>> parent of 05e185d... Revert "Initial commit"
